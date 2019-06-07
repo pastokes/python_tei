@@ -5,3 +5,4 @@ These are brief notes and exercises on working with TEI XML files using Python. 
 
 These notes assume a good knowledge of TEI XML but assume no experience or knowledge at all in programming. They also assume that Beautiful Soup 4 has already been installed in your Python system, and that some files have already been downloaded and saved in the same directory as the notebooks (see specific notebooks for details).
 
+Peter A. Stokes, École Pratique des Hautes Études – Université PSL
